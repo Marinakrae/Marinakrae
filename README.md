@@ -1,5 +1,5 @@
 
-<h2> Oi, eu sou a Marina 🐸        Bem-vindo ao meu GitHub! </h2> 
+<h2> Oi, eu sou a Marina 🐸ㅤㅤㅤㅤㅤBem-vindo ao meu GitHub! </h2> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marina-k-e/">
