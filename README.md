@@ -1,4 +1,4 @@
-<div style="text-align:center"> <h2> Oi, eu sou a Marina 🐸 <br> Bem-vindo ao meu GitHub! </h2> </div>
+<h2> Oi, eu sou a Marina 🐸 <br> Bem-vindo ao meu GitHub! </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marina-k-e/">
