@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://giphy.com/gifs/hatsune-miku-Hs1ZdBBpaHO9y"/>
+<img width="369" height="480" src="https://giphy.com/gifs/hatsune-miku-Hs1ZdBBpaHO9y">
 
 
 <br>
