@@ -2,6 +2,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<iframe src="https://giphy.com/embed/Hs1ZdBBpaHO9y" width="369" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hatsune-miku-Hs1ZdBBpaHO9y">via GIPHY</a></p>
+
 
 
 <br>
