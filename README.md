@@ -8,4 +8,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinakrae&layout=compact&langs_count=8)](https://github.com/Marinakrae/github-readme-stats)       <img src="https://github.com/Marinakrae/imagens_sites/blob/dbcce6471d5638909b3095681428117a6099a903/giphy.gif" height="200">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinakrae&layout=compact&langs_count=8)](https://github.com/Marinakrae/github-readme-stats)                      <img src="https://github.com/Marinakrae/imagens_sites/blob/dbcce6471d5638909b3095681428117a6099a903/giphy.gif" height="200">
