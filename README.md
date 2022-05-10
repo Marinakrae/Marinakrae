@@ -9,6 +9,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinakrae&layout=compact)](https://github.com/Marinakrae/github-readme-stats) <img src="https://github.com/Marinakrae/imagens_sites/blob/3b8c1d8bc5de029f8b7c133b42deb9ab35e4ed39/miku.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinakrae&layout=compact)](https://github.com/Marinakrae/github-readme-stats) <img src="https://github.com/Marinakrae/imagens_sites/blob/3b8c1d8bc5de029f8b7c133b42deb9ab35e4ed39/miku.gif" width="69" height="100">
 
 
