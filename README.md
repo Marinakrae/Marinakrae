@@ -2,7 +2,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img width="369" height="480" src="https://github.com/Marinakrae/imagens_sites/blob/6d78b89f590e8a7beeffa9aa1320b659cc69095b/giphy.gif">
+### Estou aprendendo
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+<img width="269" height="380" src="https://github.com/Marinakrae/imagens_sites/blob/6d78b89f590e8a7beeffa9aa1320b659cc69095b/giphy.gif">
 
 
 <br>
