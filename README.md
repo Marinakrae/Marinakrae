@@ -1,7 +1,7 @@
 <h1 style="color:#FF1493" align="center">Bem-vindo ao meu GitHub! 🐸</h1>
   
 <p align="center">
-  Contato:
+  <p> Contato: </p>
   <a href="https://www.linkedin.com/in/marina-k-e/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
