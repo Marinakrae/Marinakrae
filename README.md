@@ -1,6 +1,6 @@
 <h1 style="color:#FF1493" align="center">Bem-vindo ao meu GitHub! 🐸</h1>
 
-### Contato:
+<p style="text-align: center;">Contato: </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marina-k-e/">
