@@ -28,7 +28,10 @@
 
 <br>
 
+<p align="center">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinakrae&layout=compact&langs_count=11)](https://github.com/Marinakrae/github-readme-stats)
   
+</p>
 
 <img src="https://github.com/Marinakrae/imagens_sites/blob/a9d2004328480e4ec647c0f3be6fde9997cebea9/miku.gif" height="200">
