@@ -32,3 +32,4 @@
 <img src="https://github.com/Marinakrae/imagens_sites/blob/a9d2004328480e4ec647c0f3be6fde9997cebea9/miku.gif" height="200">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=Morango)](https://github.com/Marinakrae/Morango)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=Papas_Freezeria)](https://github.com/Marinakrae/Papas_Freezeria)
