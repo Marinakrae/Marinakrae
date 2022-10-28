@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinakrae&layout=compact&langs_count=10)](https://github.com/Marinakrae/github-readme-stats)
 <img src="https://github.com/Marinakrae/imagens_sites/blob/a9d2004328480e4ec647c0f3be6fde9997cebea9/miku.gif" height="200">
-<img src="https://github.com/Marinakrae/imagens_sites/blob/33b38eed33a893017cc1a8e0e3be37caa1bf0d67/sapo.gif" height="220"> 
+<img src="https://github.com/Marinakrae/imagens_sites/blob/33b38eed33a893017cc1a8e0e3be37caa1bf0d67/sapo.gif" height="210"> 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinakrae&repo=Papas_Freezeria)](https://github.com/marinakrae/Papas_Freezeria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinakrae&repo=Adivinhe_o_Numero_Lua)](https://github.com/marinakrae/Adivinhe_o_Numero_Lua)
