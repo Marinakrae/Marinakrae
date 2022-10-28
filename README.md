@@ -34,5 +34,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinakrae&repo=Papas_Freezeria)](https://github.com/marinakrae/Papas_Freezeria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinakrae&repo=Adivinhe_o_Numero_Lua)](https://github.com/marinakrae/Adivinhe_o_Numero_Lua)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=API_REST_Cadastro_de_Produtos)]https://github.com/Marinakrae/API_REST_Cadastro_de_Produtos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=API_REST_Cadastro_de_Produtos)] (https://github.com/Marinakrae/API_REST_Cadastro_de_Produtos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinakrae&repo=Morango)](https://github.com/Marinakrae/Morango)
