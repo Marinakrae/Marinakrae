@@ -33,4 +33,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=Papas_Freezeria)](https://github.com/Marinakrae/Papas_Freezeria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=Adivinhe_o_Numero_Lua)](https://github.com/Marinakrae/Adivinhe_o_Numero_Lua)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=Morango)](https://github.com/Marinakrae/Morango)
