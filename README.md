@@ -33,5 +33,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinakrae&repo=Papas_Freezeria)](https://github.com/marinakrae/Papas_Freezeria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinakrae&repo=Adivinhe_o_Numero_Lua)](https://github.com/marinakrae/Adivinhe_o_Numero_Lua)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=Morango)](https://github.com/Marinakrae/Morango)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marinakrae&repo=Jogo_da_Velha)](https://github.com/Marinakrae/Jogo_da_Velha)
