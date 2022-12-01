@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://youtu.be/6xXTvgVFRHg">
+  <img src="https://github.com/Marinakrae/imagens_sites/blob/2a6d37160f93bddde8020e49dd95f5bc870c06fc/computer.png" height="10"/>
+</a>
+
 ## Estou aprendendo: 
 
 <p align="center">
