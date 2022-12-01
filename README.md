@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://youtu.be/6xXTvgVFRHg">
-  <img src="https://github.com/Marinakrae/imagens_sites/blob/51ba7eda0c3654bce07579255478cf3cd9a0b0db/computer.png" height="200"/>
+  <img src="https://github.com/Marinakrae/imagens_sites/blob/51ba7eda0c3654bce07579255478cf3cd9a0b0db/computer.png" height="50"/>
 </a>
 
 ## Estou aprendendo: 
