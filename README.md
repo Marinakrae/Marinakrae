@@ -1,13 +1,13 @@
 <h1 style="color:#FF1493" align="center">Bem-vindo ao meu GitHub! 🐸</h1>
 
-<a href="https://youtu.be/6xXTvgVFRHg">
-  <img src="https://github.com/Marinakrae/imagens_sites/blob/2a6d37160f93bddde8020e49dd95f5bc870c06fc/computer.png" height="200"/>
-</a>
-
 ## Contato:
 
 <a href="https://www.linkedin.com/in/marina-k-e/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://youtu.be/6xXTvgVFRHg">
+  <img src="https://github.com/Marinakrae/imagens_sites/blob/2a6d37160f93bddde8020e49dd95f5bc870c06fc/computer.png" height="200"/>
 </a>
 
 ## Estou aprendendo: 
